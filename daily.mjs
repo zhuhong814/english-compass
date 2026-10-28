@@ -1,11 +1,413 @@
-// Original first-week lessons. Fictional travel details. Human-readable, offline content.
+// Original intermediate learning material; fictional travel details.
 const lessons=[
-{title:'到达陌生城市',words:[['visit','参观；拜访','I want to visit the old town.','我想逛逛老城区。','visit + 地点，直接说想去哪里。'],['stay','停留；住宿','I will stay for three nights.','我会住三晚。','stay for + 时长。'],['nearby','在附近','Is there a cafe nearby?','附近有咖啡馆吗？','nearby可以放在句尾，不必再接here。'],['recommend','推荐','What do you recommend?','你推荐什么？','用What do you recommend?请对方给建议。']],text:'It is my first visit to this city. I arrive in the morning and walk into a small hotel. The woman at the desk smiles and asks how long I will stay. “Three nights,” I say. I want to see the old town, but first I need breakfast. “Is there a cafe nearby?” I ask. She points to a street behind the hotel. There are two cafes there. “Which one do you recommend?” I ask. She suggests the smaller one because it has a quiet garden. I thank her and leave my bag at the hotel.',translation:'这是我第一次来到这座城市。我早上到达，走进一家小酒店。前台女士微笑着问我待多久。我说三晚。我想去老城区，但先得吃早餐。我问附近是否有咖啡馆。她指向酒店后面的一条街，那里有两家咖啡馆。我问她推荐哪家。她推荐较小的一家，因为那里有安静的花园。我谢过她，把包留在酒店。',questions:[['How long will the traveller stay?',['One night','Three nights','Five nights'],1,'“Three nights,” I say.'],['Where are the cafes?',['Behind the hotel','Inside the station','In the old town'],0,'She points to a street behind the hotel.'],['Why does the woman recommend the smaller cafe?',['It is free','It opens at night','It has a quiet garden'],2,'…because it has a quiet garden.']]},
-{title:'点一份早餐',words:[['order','点餐；订单','Can I order now?','现在可以点餐吗？','Can I + 动词，用来礼貌询问能否做某事。'],['include','包含','Does it include a drink?','里面包含饮料吗？','Does it include + 名词，确认套餐内容。'],['instead','作为替代','Could I have tea instead?','能换成茶吗？','先说替代选择，再加instead。'],['bill','账单','Could I have the bill, please?','请给我账单，好吗？','Could I have + 名词，是常用的礼貌请求。']],text:'I find a seat by the window in a small cafe. A server brings me a menu, and I decide to order the breakfast set. Before I choose a drink, I ask, “Does the price include coffee?” The server says it does. I do not want coffee this morning, so I ask for tea instead. She says that is fine and brings me a pot of tea. The food arrives a few minutes later. After breakfast, I ask for the bill. I check the total before paying by card. The server gives me a receipt, and I put it in my bag.',translation:'我在小咖啡馆窗边找到座位。服务员拿来菜单，我决定点早餐套餐。选饮料前，我问价格是否包含咖啡。她说包含。我今天不想喝咖啡，就问能否换成茶。她答应了，拿来一壶茶。几分钟后食物上桌。吃完后我索要账单，刷卡前核对总额，并把收据收进包里。',questions:[['What does the breakfast price include?',['A taxi ride','Coffee','Dinner'],1,'“Does the price include coffee?” The server says it does.'],['What does the traveller drink?',['Coffee','Juice','Tea'],2,'…I ask for tea instead.'],['What happens before paying?',['The traveller checks the total','The traveller leaves','The server takes the bag'],0,'I check the total before paying by card.']]},
-{title:'顺利办理入住',words:[['reservation','预订','I have a reservation under Lee.','我有预订，姓名是Lee。','under + 姓名，说明预订登记名。'],['passport','护照','Here is my passport.','这是我的护照。','Here is + 单数物品，用于递交东西。'],['ready','准备好的','Is my room ready?','我的房间准备好了吗？','Is + 物品 + ready，询问是否准备好。'],['luggage','行李','Can I leave my luggage here?','可以把行李留在这里吗？','luggage通常作不可数名词，不加s。']],text:'I return to the hotel at one in the afternoon. “I have a reservation under Lee,” I tell the receptionist. He asks to see my passport and checks the booking. My room is not ready yet. It will be ready at three. I have two hours to explore, but my suitcase is heavy. “Can I leave my luggage here?” I ask. He puts it in a room behind the desk and gives me a small ticket. I keep the ticket in my pocket. Before I leave, I ask what time breakfast starts. He says seven, and writes it on my booking card.',translation:'下午一点我回到酒店，告诉前台我有Lee名下的预订。他查看护照和预订，说房间三点才准备好。我有两小时可以出去逛，但箱子很重，便询问能否寄存行李。他把行李放进前台后面的房间，给我一张小票。我收好小票，又问早餐几点开始。他说七点，并写在预订卡上。',questions:[['When will the room be ready?',['At one','At two','At three'],2,'It will be ready at three.'],['What does the receptionist give the traveller for the luggage?',['A small ticket','A new suitcase','A passport'],0,'…gives me a small ticket.'],['What time does breakfast start?',['Six','Seven','Nine'],1,'He says seven…']]},
-{title:'问清路线再出发',words:[['straight','直行；直的','Go straight along this road.','沿这条路直走。','go straight，表达直行。'],['turn','转弯','Turn left at the bank.','在银行左转。','turn left/right at + 地标。'],['entrance','入口','Where is the entrance?','入口在哪里？','Where is + 单数地点，询问位置。'],['opposite','在……对面','It is opposite the park.','它在公园对面。','opposite + 地点，不加to。']],text:'I want to visit the museum, but the map on my phone will not load. I ask a shopkeeper for help. She tells me to go straight along River Road and turn left at the bank. The museum is opposite a park. I repeat the directions to check that I understand. She nods, then explains that the main entrance is closed today. I need to use the entrance on the side street. I thank her and start walking. Ten minutes later, I see the park and the museum across the road. I walk around the corner and find the open door.',translation:'我想去博物馆，但手机地图加载不出来。我向店主求助。她让我沿River Road直走，在银行左转，博物馆在公园对面。我复述路线确认理解。她点头，又说今天正门关闭，得走侧街入口。我道谢后出发，十分钟后找到公园和马路对面的博物馆，绕过街角找到开着的门。',questions:[['Where should the traveller turn left?',['At the hotel','At the bank','At the park'],1,'…turn left at the bank.'],['What is opposite the museum?',['A park','An airport','A cafe'],0,'The museum is opposite a park.'],['Why use the side entrance?',['It is cheaper','It is closer to the hotel','The main entrance is closed'],2,'…the main entrance is closed today.']]},
-{title:'用语音工具练英语',words:[['voice','声音；嗓音','Choose a clear voice.','选择清晰的声音。','a clear voice，描述听感清晰的声音。'],['repeat','重复','Could you repeat the sentence?','能重复这句话吗？','repeat + 内容，不必再加again。'],['pause','暂停；停顿','Pause after each sentence.','每句话后停一下。','pause after + 内容，安排停顿位置。'],['check','检查；核对','I check my recording.','我检查自己的录音。','check + 对象，说清检查什么。']],text:'Mia wants to practise English before a trip. She opens a voice tool and types a short hotel conversation. She chooses a clear voice and listens once without looking at the words. Then she reads the text and listens again. Some sentences are too fast, so she asks the tool to repeat them more slowly. After each sentence, she takes a short pause and says it herself. Finally, she records her own answer to a hotel question. She listens back to check whether the words are clear. The tool helps her prepare, but it cannot show whether a real receptionist will understand every answer.',translation:'Mia旅行前用语音工具练英语。她输入一段酒店对话，选清晰声音，先不看文字听一遍，再对照文本重听。太快的句子就放慢重复。每句话后暂停，自己说一遍。最后她录下自己对酒店问题的回答，回听检查清晰度。工具能帮助准备，但不能证明真实前台一定能听懂每个回答。',questions:[['What does Mia do on the first listen?',['She reads every word','She does not look at the text','She records the tool'],1,'…listens once without looking at the words.'],['What happens after each sentence?',['She pauses and says it herself','She closes the app','She changes hotel'],0,'…takes a short pause and says it herself.'],['What limitation does the article mention?',['The tool cannot read text','The tool cannot slow down','It cannot prove a real receptionist will understand'],2,'…cannot show whether a real receptionist will understand every answer.']]},
-{title:'买一张合适的车票',words:[['single','单程的；单个的','A single ticket, please.','请给我一张单程票。','single ticket与return ticket区分单程、往返。'],['platform','站台','Which platform does it leave from?','它从哪个站台发车？','Which + 名词，询问具体哪一个。'],['journey','旅程；行程','How long is the journey?','车程多久？','How long，询问时长。'],['valid','有效的','Is this ticket still valid?','这张票还有效吗？','still valid，表示仍然有效。']],text:'On Saturday, I go to the station to buy a single ticket to the coast. The next train leaves at ten thirty from platform four. The journey takes about forty minutes. I buy a sandwich before walking to the platform, but I spend too long in the shop. When I arrive, the train has already left. I show my ticket to a member of staff and ask if it is still valid. She checks the date and says I can use it on the next train. It leaves at eleven from the same platform. This time, I wait near the sign and keep an eye on the clock.',translation:'周六我去车站买去海边的单程票。下一班十点半从四号站台出发，车程约四十分钟。我买三明治耽误太久，到站台时车已开走。我向工作人员出示车票，问是否仍然有效。她检查日期，说可以坐下一班，十一点从同一站台出发。这次我在标牌附近等待，留意时间。',questions:[['Which platform does the train leave from?',['Two','Three','Four'],2,'…from platform four.'],['Why does the traveller miss the first train?',['The train leaves early','Too much time in the shop','The ticket is invalid'],1,'…I spend too long in the shop.'],['What can the traveller do with the ticket?',['Take the eleven oclock train','Use it next year','Only get a refund'],0,'…I can use it on the next train. It leaves at eleven…']]}
+  {
+    "title": "抵达城市：处理意外变化",
+    "level": "四级为主 · 六级拓展（教学选词，非官方词表认证）",
+    "words": [
+      [
+        "accommodation",
+        "住宿；住处",
+        "I am looking for affordable accommodation near the station.",
+        "我在找车站附近价格合理的住处。",
+        "accommodation通常不可数；affordable accommodation表示价格合理的住宿。"
+      ],
+      [
+        "alternative",
+        "替代方案；可替代的",
+        "Could you suggest an alternative route?",
+        "能推荐另一条路线吗？",
+        "an alternative to + 名词；alternative route表示替代路线。"
+      ],
+      [
+        "convenient",
+        "方便的；便利的",
+        "Would it be convenient to leave my bag here?",
+        "把包留在这里方便吗？",
+        "It is convenient to do…；描述安排便利，不用I am convenient。"
+      ],
+      [
+        "recommendation",
+        "建议；推荐",
+        "Do you have any recommendations for local food?",
+        "你有什么本地美食推荐吗？",
+        "a recommendation for…；与动词recommend区分。"
+      ]
+    ],
+    "text": "When I arrived in the city, I discovered that my accommodation was farther from the station than I had expected. A taxi would be convenient, but the fare was almost as much as my dinner budget. I asked a station employee for an alternative. She explained that a local bus stopped near my guesthouse, although I would need to walk for ten minutes. Before leaving, I asked for a recommendation for somewhere to eat. Instead of naming a famous restaurant, she suggested a small market used by local residents. I decided to leave my bag first and explore the market afterwards. The journey required a little patience, but it helped me understand the neighbourhood rather than simply pass through it.",
+    "translation": "到达后，我发现住处比预计的离车站更远。打车方便，但费用几乎等于晚餐预算。我询问替代方案，工作人员推荐公交加十分钟步行。我又请她推荐吃饭地点，她推荐居民常去的小市场。我决定先放行李再去市场。路上虽需耐心，却让我更了解街区。",
+    "questions": [
+      [
+        "Why does the traveller look for an alternative?",
+        [
+          "The taxi is expensive relative to the budget",
+          "All taxis are unavailable",
+          "The guesthouse has closed"
+        ],
+        0,
+        "The fare was almost as much as the dinner budget."
+      ],
+      [
+        "What does the employee recommend for food?",
+        [
+          "A famous hotel",
+          "A market used by residents",
+          "The station cafe"
+        ],
+        1,
+        "…a small market used by local residents."
+      ],
+      [
+        "What does the final sentence suggest?",
+        [
+          "Walking was a complete waste of time",
+          "The traveller should avoid buses",
+          "A slower journey can help someone understand a place"
+        ],
+        2,
+        "…understand the neighbourhood rather than simply pass through it."
+      ]
+    ]
+  },
+  {
+    "title": "餐厅沟通：确认需求与费用",
+    "level": "四级为主 · 六级拓展（教学选词，非官方词表认证）",
+    "words": [
+      [
+        "ingredient",
+        "原料；配料",
+        "Could you tell me which ingredients are in this sauce?",
+        "能告诉我这个酱有哪些配料吗？",
+        "ingredients in + 菜品，询问具体成分。"
+      ],
+      [
+        "preference",
+        "偏好",
+        "I have a preference for lighter meals.",
+        "我偏爱清淡一点的饭菜。",
+        "have a preference for…；表达偏好不等于过敏。"
+      ],
+      [
+        "substitute",
+        "替代；替代品",
+        "Could you substitute vegetables for the fries?",
+        "能用蔬菜替代薯条吗？",
+        "substitute A for B：用A替代B，留意顺序。"
+      ],
+      [
+        "additional",
+        "额外的",
+        "Is there an additional charge for that?",
+        "那需要额外收费吗？",
+        "additional charge表示额外费用。"
+      ]
+    ],
+    "text": "At a restaurant near the harbour, I found a lunch menu with several unfamiliar dishes. Rather than choose by the photographs alone, I asked the server about the ingredients in a vegetable sauce. She explained that it contained cream and several herbs. I mentioned my preference for a lighter meal and asked whether the kitchen could substitute vegetables for the fries served with the fish. The change was possible, but there would be an additional charge. Since the menu did not mention the amount, I asked her to confirm it before placing my order. This brief conversation made the meal slightly more expensive, but it also prevented an unpleasant surprise when the bill arrived. Asking politely did not mean accepting every suggestion without checking the details.",
+    "translation": "我在海港附近的餐厅看见不熟悉的菜，先询问酱的配料，而不是只看图片。我说明偏爱清淡饮食，问能否把薯条换成蔬菜。可以换，但需加钱，我下单前确认金额。礼貌询问不代表不核实细节就接受所有建议。",
+    "questions": [
+      [
+        "What does the sauce contain?",
+        [
+          "Only vegetables",
+          "Cream and herbs",
+          "Nuts and fish"
+        ],
+        1,
+        "She explained that it contained cream and several herbs."
+      ],
+      [
+        "Why confirm the amount before ordering?",
+        [
+          "To avoid an unexpected bill",
+          "To demand a free meal",
+          "To change the restaurant hours"
+        ],
+        0,
+        "…prevented an unpleasant surprise when the bill arrived."
+      ],
+      [
+        "Which statement matches the passage?",
+        [
+          "All substitutions are free",
+          "The traveller has a confirmed allergy",
+          "A polite customer can still question the details"
+        ],
+        2,
+        "Asking politely did not mean accepting every suggestion…"
+      ]
+    ]
+  },
+  {
+    "title": "酒店入住：核实预订条件",
+    "level": "四级为主 · 六级拓展（教学选词，非官方词表认证）",
+    "words": [
+      [
+        "confirmation",
+        "确认；确认函",
+        "I have the booking confirmation on my phone.",
+        "手机里有预订确认函。",
+        "booking confirmation常指书面预订凭证。"
+      ],
+      [
+        "availability",
+        "可获得性；空房情况",
+        "Does an early check-in depend on availability?",
+        "提前入住取决于空房情况吗？",
+        "subject to availability表示视供应情况而定。"
+      ],
+      [
+        "arrangement",
+        "安排",
+        "Could we make an arrangement for luggage storage?",
+        "可以安排寄存行李吗？",
+        "make arrangements for…：为……作安排。"
+      ],
+      [
+        "inconvenience",
+        "不便；麻烦",
+        "I appreciate your help with the inconvenience.",
+        "感谢你帮助处理这次不便。",
+        "cause inconvenience表示造成不便；apologise for the inconvenience表示为不便道歉。"
+      ]
+    ],
+    "text": "My booking confirmation said that check-in began at three, but I reached the hotel shortly after noon. I knew that an early arrival did not guarantee an early room, so I asked about availability rather than demanding immediate access. The receptionist explained that the previous guest had left late and the room still needed cleaning. We made an arrangement for luggage storage while I visited a nearby gallery. She also offered to send a message when the room was ready. Although the delay caused some inconvenience, having a clear plan made it easier to adjust my afternoon. Before leaving, I checked whether my booking included breakfast. The receptionist looked at the confirmation and explained that it covered the room only, which saved another misunderstanding the next morning.",
+    "translation": "入住时间三点，我中午就到了。我理解提前到达不保证有房，便询问空房情况。前一位客人晚退房，房间还需清洁，我们安排了寄存行李，并约定准备好后通知。我另核对早餐，发现预订只含房费，避免了第二天误会。",
+    "questions": [
+      [
+        "Why is the room unavailable?",
+        [
+          "The booking was cancelled",
+          "It still needs cleaning",
+          "The hotel has no staff"
+        ],
+        1,
+        "…the room still needed cleaning."
+      ],
+      [
+        "How is uncertainty reduced?",
+        [
+          "By agreeing on storage and a message",
+          "By demanding free breakfast",
+          "By leaving without checking"
+        ],
+        0,
+        "…luggage storage…send a message when the room was ready."
+      ],
+      [
+        "What does the confirmation cover?",
+        [
+          "Breakfast only",
+          "A gallery ticket",
+          "The room only"
+        ],
+        2,
+        "…it covered the room only."
+      ]
+    ]
+  },
+  {
+    "title": "城市出行：选择可靠路线",
+    "level": "四级为主 · 六级拓展（教学选词，非官方词表认证）",
+    "words": [
+      [
+        "destination",
+        "目的地",
+        "Does this service stop at my destination?",
+        "这班车在我的目的地停吗？",
+        "reach a destination；问车次时明确地名。"
+      ],
+      [
+        "approximately",
+        "大约",
+        "The journey takes approximately forty minutes.",
+        "车程大约四十分钟。",
+        "approximately + 数值，比about略正式。"
+      ],
+      [
+        "accessible",
+        "可到达的；便于使用的",
+        "Is the entrance accessible without using stairs?",
+        "不走楼梯能到入口吗？",
+        "accessible to…表示对……可达或可用；具体询问坡道、电梯。"
+      ],
+      [
+        "reliable",
+        "可靠的",
+        "Is the bus service reliable in the evening?",
+        "晚间公交服务可靠吗？",
+        "reliable service/information；强调值得信赖。"
+      ]
+    ],
+    "text": "The museum was my destination, but the route suggested by my phone included a station with no lift. Carrying a heavy bag, I wanted an entrance that was accessible without stairs. An employee recommended a bus that stopped beside the museum. The journey would take approximately forty minutes, slightly longer than the train, but would involve less walking. I also asked whether the service was reliable in the evening, since I planned to return after dinner. She warned that buses became less frequent after eight and suggested checking the return timetable before setting off. I chose the bus, but saved the museum address and a second route on my phone. The fastest option was not necessarily the most practical one for that particular day.",
+    "translation": "手机建议的火车路线有车站没电梯。我带重包，想找无楼梯入口。工作人员推荐博物馆旁停靠的公交，约四十分钟，比火车稍慢但步行少。晚八点后班次减少，需先查返程。我选公交，也存了地址和备用路线：最快不一定最实用。",
+    "questions": [
+      [
+        "Why not take the suggested train route?",
+        [
+          "It has a station without a lift",
+          "It is cancelled",
+          "It goes to a different city"
+        ],
+        0,
+        "…included a station with no lift."
+      ],
+      [
+        "What changes after eight?",
+        [
+          "Buses become free",
+          "Buses become less frequent",
+          "The museum opens"
+        ],
+        1,
+        "…buses became less frequent after eight."
+      ],
+      [
+        "What is the main point?",
+        [
+          "Always choose the fastest route",
+          "Never trust employees",
+          "Practical needs matter when choosing a route"
+        ],
+        2,
+        "The fastest option was not necessarily the most practical one…"
+      ]
+    ]
+  },
+  {
+    "title": "AI语音：判断工具的局限",
+    "level": "四级为主 · 六级拓展（教学选词，非官方词表认证）",
+    "words": [
+      [
+        "generate",
+        "生成；产生",
+        "The tool can generate spoken examples.",
+        "这个工具能生成语音例句。",
+        "generate + 内容，如audio、text、ideas。"
+      ],
+      [
+        "accurate",
+        "准确的",
+        "An accurate transcript can still miss the speaker’s intention.",
+        "准确的文字稿仍可能没表达说话者意图。",
+        "accurate描述信息正确；不等于表达自然。"
+      ],
+      [
+        "limitation",
+        "局限；限制",
+        "What are the limitations of this tool?",
+        "这个工具有哪些局限？",
+        "limitations of…；评价工具时同时看能力与局限。"
+      ],
+      [
+        "evaluate",
+        "评估",
+        "We should evaluate the result with real users.",
+        "我们应与真实用户一起评估结果。",
+        "evaluate + 对象 + 标准，说明按什么判断。"
+      ]
+    ],
+    "text": "A language learner uses an AI tool to generate short hotel conversations. The tool produces clear sentences and an accurate written transcript, which makes it useful for preparation. However, the learner notices a limitation: every receptionist in the examples is patient and answers exactly as expected. Real conversations are less predictable. A person may interrupt, speak quietly, or ask an unfamiliar question. To evaluate the practice more fairly, the learner asks a friend to change the booking details and introduce a small problem. She records the conversation and checks whether she can still explain her request. The purpose is not to prove that the tool is useless. It is to understand which parts of communication the tool supports and which parts require a different kind of practice.",
+    "translation": "学习者用AI生成酒店对话，清楚的句子和准确文字稿有助准备，但样例里的前台总是耐心、回答可预测。现实会有打断、轻声或陌生问题。她请朋友更改预订细节并加入意外，录音检查自己是否仍能说清需求。目的在于理解工具能支持什么，以及什么需要其他练习。",
+    "questions": [
+      [
+        "What limitation is identified?",
+        [
+          "The examples are too predictable",
+          "The transcript is always wrong",
+          "The tool cannot generate text"
+        ],
+        0,
+        "…answers exactly as expected."
+      ],
+      [
+        "How does the learner evaluate her practice?",
+        [
+          "By counting generated sentences",
+          "By practising changed details with a friend",
+          "By using only familiar answers"
+        ],
+        1,
+        "…asks a friend to change the booking details…"
+      ],
+      [
+        "What attitude does the passage take?",
+        [
+          "The tool is completely useless",
+          "Real practice is unnecessary",
+          "Use the tool while recognising its boundaries"
+        ],
+        2,
+        "…which parts…supports and which parts require…different…practice."
+      ]
+    ]
+  },
+  {
+    "title": "行程变动：保留灵活性",
+    "level": "四级为主 · 六级拓展（教学选词，非官方词表认证）",
+    "words": [
+      [
+        "departure",
+        "出发；离开",
+        "Could you confirm the departure time?",
+        "能确认出发时间吗？",
+        "departure time与arrival time对应出发与到达时间。"
+      ],
+      [
+        "restriction",
+        "限制；规定",
+        "Are there any restrictions on changing the ticket?",
+        "改票有什么限制吗？",
+        "restrictions on + 名词或动名词。"
+      ],
+      [
+        "flexible",
+        "灵活的",
+        "I would prefer a flexible ticket.",
+        "我更想要灵活票。",
+        "flexible ticket常指允许一定变更，具体条件仍需确认。"
+      ],
+      [
+        "refund",
+        "退款；退还",
+        "Am I entitled to a refund?",
+        "我有权获得退款吗？",
+        "request a refund是申请退款，不保证一定符合条件。"
+      ]
+    ],
+    "text": "I was about to buy the cheapest train ticket when I noticed a restriction in the small print: it was valid only on one specific departure. Since my morning meeting might finish late, a flexible ticket seemed safer. I asked the assistant how much extra it would cost and whether I could request a refund if my plans changed completely. She explained that flexibility did not mean unlimited freedom. Some tickets allowed a later train but still charged a fee for cancellation. After comparing the conditions, I paid slightly more for a ticket that allowed travel throughout the afternoon. The decision was based on uncertainty rather than comfort. A low price would not be a saving if I had to purchase a second ticket after missing the first train.",
+    "translation": "最便宜的票只限指定车次。因为会议可能延迟结束，我考虑灵活票，并询问加价和退款条件。灵活不等于无限制，有些票允许晚一班，但取消仍收费。我比较后买了下午时段可乘车的票。若错过后要重买，低价票就不省钱。",
+    "questions": [
+      [
+        "Why consider a flexible ticket?",
+        [
+          "The meeting may end late",
+          "The seat is larger",
+          "The train is faster"
+        ],
+        0,
+        "…my morning meeting might finish late…"
+      ],
+      [
+        "What does flexibility NOT necessarily include?",
+        [
+          "Travel at a different time",
+          "Free cancellation",
+          "An afternoon journey"
+        ],
+        1,
+        "…still charged a fee for cancellation."
+      ],
+      [
+        "Why might the cheapest ticket cost more overall?",
+        [
+          "It includes dinner",
+          "All fares rise at noon",
+          "Missing the train could require a second ticket"
+        ],
+        2,
+        "…purchase a second ticket after missing the first train."
+      ]
+    ]
+  }
 ];
-export function dailyLesson(w,d){if(w!==1||d<1||d>6)return null;return lessons[d-1];}
+export function dailyLesson(w,d){return w===1&&d>=1&&d<=6?lessons[d-1]:null;}
 export const dailyLessons=lessons;
